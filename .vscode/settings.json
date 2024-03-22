@@ -1,0 +1,6 @@
+{
+  "dart.hotReloadOnSave": "allIfDirty",
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "dart.flutterHotReloadOnSave": "allIfDirty"
+}
