@@ -2,4 +2,4 @@ This is a todo flutter app that I made... Try using it. It has a clean UI. Here 
 
 The source code and the apk are both here... Check it out!!!
 
-![localtasks screenshot](assets/screenshot.jpg)
+<img src="assets/screenshot.jpg" alt="App Screenshot" width="200" height="400" />
